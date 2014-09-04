@@ -1,0 +1,1 @@
+update merchant set name = 'Makarov' where id_merchant = 2;

@@ -1,0 +1,1 @@
+update customer set name = 'Petrov' where id_customer = 2;

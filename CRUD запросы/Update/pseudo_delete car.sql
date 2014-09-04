@@ -1,0 +1,1 @@
+update car_mark set deleted = 1 where id_car_mark = @SomeId ;
